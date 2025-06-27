@@ -29,8 +29,7 @@ This project automates the process of scraping, rewriting, and reviewing book ch
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
-   cd Automated\ book\ publication
+   git clone [<repo-url>](https://github.com/RAHULMANDHABALA/Automated_Book_publishing.git)
    ```
 
 2. **Create and activate a virtual environment (recommended):**
