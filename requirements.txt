@@ -1,0 +1,14 @@
+# Core dependencies
+playwright==1.42.0
+google-generativeai==0.3.2  # Downgraded for stability
+chromadb==0.4.22  # Updated version
+sentence-transformers==2.6.0
+inquirer==3.1.3
+python-dotenv==1.0.0
+numpy==1.26.4
+
+# ChromaDB dependencies
+pysqlite3-binary  # Helps with SQLite issues
+
+# Gemini fallback
+google-ai-generativelanguage==0.3.0  # Specific version that works
